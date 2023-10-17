@@ -15,9 +15,9 @@ This data set contains datas from 2023/2024 season Turkish Leagues.
 
 Leagues in this data set:
 * Süper Lig
-* 1. Lig
-* 2. Lig Beyaz
-* 2. Lig Kırmızı
+* 1&#46; Lig
+* 2&#46; Lig Beyaz
+* 2&#46; Lig Kırmızı
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
