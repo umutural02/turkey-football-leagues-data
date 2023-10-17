@@ -1,0 +1,73 @@
+﻿Id,Name,CityId,Capacity,UndersoilHeating,LodgeAmount
+1,Atatürk Olimpiyat,34,74753,False,34
+2,Ali Sami Yen Spor Kompleksi RAMS Park,34,52223,True,180
+3,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,34,47834,True,100
+4,Beşiktaş Park,34,42590,True,147
+5,Medaş Konya Büyükşehir Stadyumu,42,42000,True,50
+6,Papara Park,61,40782,True,122
+7,Samsun Yeni 19 Mayıs Stadyumu,55,33919,False,54
+8,Kalyon Stadyumu,27,33502,True,
+9,Yeni Adana Stadyumu,1,33000,False,54
+10,RHG Enertürk Enerji Stadyumu,38,32864,True,103
+11,Corendon Airlines Park Antalya Stadı,7,32537,False,44
+12,Yeni 4 Eylül Stadı,58,27532,True,52
+13,Mersin Stadyumu,33,25000,False,54
+14,Eryaman Stadyumu,6,20560,True,51
+15,Başakşehir Fatih Terim,34,17156,True,30
+16,Çaykur Didi,53,15332,True,15
+17,Recep Tayyip Erdoğan Stadyumu,34,13856,False,265
+18,Kırbıyık Holding Stadyumu,7,10128,False,
+19,Esenyurt Necmi Kadıoğlu Stadyumu,34,7500,False,
+20,Pendik Stadı,34,2500,False,
+21,Kocaeli Stadı,41,34169,False,
+22,11 Nisan Stadyumu,63,28965,False,
+23,Yeni Sakarya Atatürk Stadyumu,54,28154,False,19
+24,Çotanak Spor Kompleksi,28,21500,False,
+25,Erzurum Kazım Karabekir,25,21374,True,
+26,Gürsel Aksel Stadyumu,35,19713,True,39
+27,Alsancak Mustafa Denizli Stadı,35,15000,False,10
+28,Çorum Şehir Stadyumu,19,15000,False,
+29,Bandırma 17 Eylül,10,12725,False,
+30,Bolu Atatürk,14,8456,False,
+31,Bodrum İlçe Stadı,48,5000,False,
+32,Ankara Aktepe,6,4883,False,
+33,Ümraniye Belediyesi Şehir Stadı,34,3513,False,
+34,Mümin Özkasap Spor Tesisleri,45,2626,False,
+35,Eyüp Stadı,34,1980,False,
+36,Sancaktepe 15 Temmuz Stadı,34,1920,False,
+37,Bursa Büyükşehir Belediye Stadyumu,16,43361,False,72
+38,Diyarbakır Stadyumu,21,33000,True,54
+39,Osmanlı Stadı,6,19626,False,
+40,Zafer Stadı,3,15500,False,
+41,Karaelmas Kemal Köksal Stadyumu,67,13795,False,
+42,Van Atatürk Stadyumu,65,10500,False,
+43,Yeni Buca Stadi,35,8810,False,10
+44,Kırşehir Ahi,40,7500,False,
+45,Esenler Erokspor Stadyumu,34,5296,False,
+46,Nazilli İlçe Stadı,9,4500,False,
+47,Kırklareli Atatürk Stadı,39,3750,False,
+48,Serik İsmail Oğan Stadı,7,3500,False,
+49,TCDD Ankara Demirspor,6,3000,False,
+50,Karacabey M. Fehmi Gerçeker Stadı,16,2722,False,
+51,Beyoğlu Stadı,34,1000,False,
+52,Altınordu Metin Oktay Yerleşkesi,35,,False,
+53,Ortahisar Yavuz Selim Stadı,61,,False,
+54,Kahta İlçe,2,,False,
+55,Denizli Atatürk Stadı,20,18745,False,14
+56,Yeni Karaman Stadyumu,70,15000,False,
+57,13 Şubat Şehir Stadı,24,12981,False,
+58,Isparta Atatürk Stadyum,32,10000,False,
+59,Fethiye İlçe Stadı,48,8372,False,
+60,İskenderun 5 Temmuz,31,8217,False,
+61,Dağılgan Stadı,68,7000,False,1
+62,Soma Atatürk Stadı,45,6500,False,
+63,Uşak 1 Eylül,64,5944,False,
+64,Yusuf Ziya Öniş Stadyumu,34,5000,False,
+65,Düzce 18 Temmuz,81,5000,False,
+66,Menemen İlçe Stadı,35,4420,False,
+67,Kastamonu Gazi Stadı,37,4033,False,
+68,İnegöl İlçe Stadyumu,16,3950,False,
+69,Etimesgut Belediyesi Atatürk Stadı,6,2640,False,
+70,Derince Belediyespor Doğal Çim Stadyumu,41,1500,False,
+71,Bolluca,34,1150,False,
+72,Iğdır Şehir Stadı,76,,False,
